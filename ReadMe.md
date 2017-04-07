@@ -1,6 +1,10 @@
-Install Glut first. See https://www.cs.csustan.edu/~rsc/SDSU/GLUTinstall.html
+This program needs GLUT to run. See https://www.cs.csustan.edu/~rsc/SDSU/GLUTinstall.html
 
 You can download the header, dll and lib files from here: https://www.opengl.org/resources/libraries/glut/glutdlls37beta.zip
+
+This program needs Windows SDK to run. You can install it with Visual Studio.
+
+The code can run with VS2015 or VS2017, under Windows 10 RS2 or Creator Update.
 
 ### Controlling: ### 
 W&S for moving forward and backward.
