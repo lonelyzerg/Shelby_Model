@@ -1,3 +1,4 @@
+#define GLUT_DISABLE_ATEXIT_HACK
 #include <stdlib.h>
 #include "GL/glut.h"
 #include <amp_math.h>
@@ -1201,9 +1202,11 @@ int main(int argc, char** argv)
 	glutInitDisplayMode(GLUT_DOUBLE | GLUT_RGB | GLUT_DEPTH);
 	glutInitWindowSize(Width, Height);
 	//glutReshapeFunc(myReshape);
+	glEnable(GL_DEPTH_TEST);
+	glDepthFunc(GL_LESS);
 	glutIdleFunc(myidle);
 	glutInitWindowPosition(0, 0);
-	glutCreateWindow("COMP-6400 Assignment 6");
+	glutCreateWindow("Shelby");
 
 	glutDisplayFunc(display);
 	init();
