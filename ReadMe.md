@@ -23,6 +23,6 @@ L for changing the lighting from morning, noon, afternoon and night.
 
 H for changing the height of eye within 4 levels.
 
-T will start auto tour, cycling from 3 places.
+T will start auto tour, cycling between 3 places.
 
 Student can go down from the edge of upper place, but cant go back from lower place unless through a stair.
