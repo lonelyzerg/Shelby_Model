@@ -15,7 +15,7 @@ Left and right arrow for rolling the camera counter-clock wise and lock wise, 5 
 
 L for change the lighting from morning, noon, afternoon and night.
 
-+ and - add/delete the spotlight focused on the active student.
+\+ and - add/delete the spotlight focused on the active student.
 
 H will change the height of eye within 4 levels.
 
