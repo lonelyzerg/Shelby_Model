@@ -13,12 +13,12 @@ Up and Down arrow for zoom in and out the camera from 3 levels.
 
 Left and right arrow for rolling the camera counter-clock wise and lock wise, 5 degrees on one tap.
 
-L for change the lighting from morning, noon, afternoon and night.
+L for changing the lighting from morning, noon, afternoon and night.
 
 \+ and - add/delete the spotlight focused on the active student.
 
-H will change the height of eye within 4 levels.
+H for changing the height of eye within 4 levels.
 
-T to start auto tour, cycling from 3 places.
+T will start auto tour, cycling from 3 places.
 
 Student can go down from the edge of upper place, but cant go back from lower place unless through a stair.
