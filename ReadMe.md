@@ -13,16 +13,16 @@ A&D for turning counter-clock wise and lock wise.
 
 C to change the active student that you are controlling.
 
-Up and Down arrow for zoom in and out the camera from 3 levels.
+Up and Down arrow for zoom in and out the camera.
 
-Left and right arrow for rolling the camera counter-clock wise and lock wise, 5 degrees on one tap.
+Left and right arrow for rolling the camera counter-clock wise and lock wise.
 
-L for changing the lighting from morning, noon, afternoon and night.
+L to switch the light between morning, noon, afternoon and night.
 
-\+ and - add/delete the spotlight focused on the active student.
+\+ and - to add/delete the spotlight focused on the active student.
 
-H for changing the height of eye within 4 levels.
+H to change the height of camera within 4 levels.
 
-T will start auto tour, cycling between 3 places.
+T to start auto tour, cycling between 3 places.
 
-Student can go down from the edge of upper place, but cant go back from lower place unless through a stair.
+Student can go down from the edge of higer place, but cant go back from lower place unless through a stair.
